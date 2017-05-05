@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/TestCollection.iml" filepath="$PROJECT_DIR$/TestCollection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestMap/TestMap.iml" filepath="$PROJECT_DIR$/TestMap/TestMap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestOrder/TestOrder.iml" filepath="$PROJECT_DIR$/TestOrder/TestOrder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestProxy/TestProxy.iml" filepath="$PROJECT_DIR$/TestProxy/TestProxy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestProxy_static/TestProxy_static.iml" filepath="$PROJECT_DIR$/TestProxy_static/TestProxy_static.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestProxy_static_2.0/TestProxy_static_2.0.iml" filepath="$PROJECT_DIR$/TestProxy_static_2.0/TestProxy_static_2.0.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestThread/TestThread.iml" filepath="$PROJECT_DIR$/TestThread/TestThread.iml" />
+    </modules>
+  </component>
+</project>
